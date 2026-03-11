@@ -1,5 +1,5 @@
 public class UC4 {
-    public static void main(String[] args) {
+    public static void main(String[] args) { //Pattern
 
         String[] O = {
                 "  **** ",
